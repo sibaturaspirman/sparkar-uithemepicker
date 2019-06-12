@@ -3,7 +3,7 @@ AR Spark - UI Theme Picker<br>
 You can learn about Object Animation, Object Touch Gesture, Change Material with Touch by Script.
 
 Instagram : [@sibaturaspirman](https://www.instagram.com/sibaturaspirman/) & [@sibaturaspirman.space](https://www.instagram.com/sibaturaspirman.space/)<br />
-Website : [sibatur.com](https://sibatur.com/) - [antigravity.id](https://antigravity.id/)<br />
+Website : [sibatur.com](http://bit.ly/sibaturWeb) - [antigravity.id](https://antigravity.id/)<br />
 Facebook : [Asep Irman](https://www.facebook.com/profile.php?id=100000215136900)<br />
 WhatsApp & Telegram : +6281287006375<br />
 
