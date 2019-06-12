@@ -1,5 +1,6 @@
 // = UI Theme Picker ================
-// 
+// IG : @sibaturaspirman & @sibaturaspirman.space
+// Web : sibatur.com - antigravity.id
 
 // Load in the required modules
 const Scene = require('Scene');
